@@ -1,0 +1,11 @@
+.container {
+    flex: 1;
+    display: "flex";
+    flex-direction: "row";
+    height: 60000;
+    background-color: "red";
+    background-image: url("../assets/logobackground.jpg");
+}
+.logo-image {
+    height: 200;
+}
